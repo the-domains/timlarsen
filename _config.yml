@@ -1,7 +1,7 @@
 name: timlarsen
 favicon: null
-layout_spectrum: 0.10816434700973332
-typography_spectrum: 0.04532679542899132
+layout_spectrum: 0.76795
+typography_spectrum: 0.25459
 cta:
   domain: null
   bucket: null
@@ -21,8 +21,8 @@ color:
     - '#3F8EFC'
     - '#2667FF'
     - '#3B28CC'
-  brandStrength: 0.12418735329993069
-  lightness: 0.9062128579244018
-  saturation: 0.8963101769331843
-  rhythmicContrast: 0.5611904300749302
+  brandStrength: 0
+  lightness: 1
+  saturation: 0.5
+  rhythmicContrast: 1
 purpose: []
